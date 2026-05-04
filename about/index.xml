@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Unknown Entity 1806</title>
+    <link>https://unknownentity1806.page/about/</link>
+    <description>Recent content in About on Unknown Entity 1806</description>
+    <generator>Hugo</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://unknownentity1806.page/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Previous versions</title>
+      <link>https://unknownentity1806.page/about/prevversions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://unknownentity1806.page/about/prevversions/</guid>
+      <description>a simple overview of past versions of this website</description>
+    </item>
+    <item>
+      <title>Unknown Entity 1806</title>
+      <link>https://unknownentity1806.page/about/unknown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://unknownentity1806.page/about/unknown/</guid>
+      <description>learn about my persona/mascot</description>
+    </item>
+    <item>
+      <title>Webmaster</title>
+      <link>https://unknownentity1806.page/about/webmaster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://unknownentity1806.page/about/webmaster/</guid>
+      <description>learn a bit about the person that runs this website</description>
+    </item>
+  </channel>
+</rss>
