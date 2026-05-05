@@ -353,6 +353,11 @@ li {
   max-width: 30%;
   align-items: flex-start;
 }
+@media (max-width: 768px) {
+  .list {
+    max-width: 100%;
+  }
+}
 
 /* ns-hugo-imp:/Volumes/CREATIVE/Webdevelopment/ueversion3/themes/version3/assets/css/components/about.css */
 .about-head {
@@ -470,6 +475,11 @@ p {
   flex: 0 0 31.3333%;
   max-height: 300pt;
   overflow: scroll;
+}
+@media (max-width: 768px) {
+  .latest-content {
+    flex: 1;
+  }
 }
 section {
   margin-bottom: 2rem;
