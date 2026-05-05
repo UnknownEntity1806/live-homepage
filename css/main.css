@@ -28,12 +28,15 @@ nav {
   display: flex;
   justify-content: center;
   padding: 0.3rem;
+  flex-wrap: wrap;
   ul {
     display: flex;
     gap: 1rem;
     list-style: none;
     padding: 0;
     margin: 0;
+    flex-wrap: wrap;
+    justify-content: center;
   }
   li {
     background-image: url(https://file.garden/aE7eugw0EBvaQzOF/assets/divider-lila.webp);
@@ -56,6 +59,57 @@ nav {
         #f0f0f0 -1px -1px 0,
         #f0f0f0 -1px 1px 0,
         #f0f0f0 2px -1px 0;
+    }
+  }
+}
+@media (max-width: 768px) {
+  header {
+    margin-top: 1rem;
+    h3 {
+      margin-bottom: 1rem;
+      font-size: 1rem;
+    }
+  }
+  #header {
+    margin-bottom: 0.2rem;
+  }
+  #logo {
+    max-width: 100%;
+    width: 100%;
+  }
+  #nav {
+    border-radius: 0px;
+  }
+  nav {
+    padding: 0.5rem 0.3rem;
+    ul {
+      gap: 0.5rem;
+    }
+    li {
+      padding: 4px 8px;
+      font-size: 0.9rem;
+    }
+  }
+}
+@media (max-width: 480px) {
+  header {
+    margin-top: 0.5rem;
+    h3 {
+      margin-bottom: 0.5rem;
+      font-size: 0.9rem;
+    }
+  }
+  #nav {
+    border: 0.5px solid var(--lilac);
+  }
+  nav {
+    padding: 0.25rem;
+    ul {
+      gap: 0.25rem;
+    }
+    li {
+      padding: 3px 6px;
+      font-size: 0.8rem;
     }
   }
 }
@@ -292,6 +346,7 @@ li {
 .list-grid {
   display: flex;
   gap: 10pt;
+  flex-wrap: wrap;
 }
 .list {
   max-height: fit-content;
@@ -321,6 +376,7 @@ li {
 .about-flex {
   display: flex;
   gap: 5pt;
+  flex-wrap: wrap;
 }
 .about-website {
   background: none;
