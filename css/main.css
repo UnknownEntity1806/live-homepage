@@ -472,7 +472,7 @@ p {
   gap: 10pt;
 }
 .latest-content > * {
-  flex: 0 0 31.3333%;
+  flex: 1 0 31.3333%;
   max-height: 300pt;
   overflow: scroll;
 }
