@@ -648,6 +648,15 @@ hr {
   border-top: 1pt dashed var(--aqua);
   margin: 1rem;
 }
+code {
+  background-color: var(--grey-light);
+  padding: 3pt;
+  border-radius: 3pt;
+  border: 1px solid var(--grey);
+  color: var(--lilac-dark);
+  text-align: center;
+  margin: 0 auto;
+}
 .webring {
   text-align: center;
   img {
@@ -741,5 +750,29 @@ table {
   background-color: rgba(255, 255, 255, 0.483);
   padding: 10pt;
   border-radius: 3pt;
+}
+.tag-label {
+  margin-top: 0.5rem;
+  background-color: var(--aqua-light);
+  border: 1pt solid var(--aqua);
+  border-radius: 3pt;
+  padding: 12pt;
+  list-style-image: url("./label_22dp_6E3894_FILL0_wght400_GRAD0_opsz24-LMRK4Y6L.svg");
+  a {
+    color: var(--lilac-dark);
+    text-decoration: double underline;
+    &:hover {
+      color: var(--aqua);
+    }
+  }
+  ul {
+    padding-left: 20pt;
+    display: inline-flex;
+  }
+  li {
+    margin-left: 2rem;
+    margin-bottom: 0.2rem;
+    padding-right: 1rem;
+  }
 }
 /*# sourceMappingURL=main.css.map */
