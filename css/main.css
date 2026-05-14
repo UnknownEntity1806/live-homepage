@@ -165,6 +165,7 @@ footer {
   ul {
     padding-left: 20pt;
     display: inline-flex;
+    flex-wrap: wrap;
   }
   li {
     margin-left: 2rem;
@@ -768,6 +769,7 @@ table {
   ul {
     padding-left: 20pt;
     display: inline-flex;
+    flex-wrap: wrap;
   }
   li {
     margin-left: 2rem;
