@@ -39,7 +39,7 @@ nav {
     justify-content: center;
   }
   li {
-    background-image: url(https://file.garden/aE7eugw0EBvaQzOF/assets/divider-lila.webp);
+    background-image: url("./divider-lila-OA5UGDNI.webp");
     background-repeat: no-repeat;
     background: contain;
     padding: 5px 10px;
@@ -362,7 +362,7 @@ li {
 
 /* ns-hugo-imp:/Volumes/CREATIVE/Webdevelopment/ueversion3/themes/version3/assets/css/components/about.css */
 .about-head {
-  background-image: url(https://file.garden/aE7eugw0EBvaQzOF/assets/header.webp);
+  background-image: url("./header-KR6AVT2Q.webp");
   background-size: contain;
   background-repeat: no-repeat;
   height: auto;
@@ -743,7 +743,7 @@ table {
   margin: 0;
 }
 .cityscape {
-  background-image: url(https://file.garden/aE7eugw0EBvaQzOF/assets/background%20cityscape.webp);
+  background-image: url("./background-cityscape-QOYN3AF6.webp");
   background-size: contain;
   background-position: fixed;
 }
