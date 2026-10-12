@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Drawing Process on Unknown Entity 1806</title>
+    <title>Drawing-Process on Unknown Entity 1806</title>
     <link>https://unknownentity1806.page/tags/drawing-process/</link>
-    <description>Recent content in Drawing Process on Unknown Entity 1806</description>
+    <description>Recent content in Drawing-Process on Unknown Entity 1806</description>
     <generator>Hugo</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sun, 14 Jun 2026 11:50:56 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 18:41:32 +0200</lastBuildDate>
     <atom:link href="https://unknownentity1806.page/tags/drawing-process/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Playing with code #5: drawing a background</title>
+      <link>https://unknownentity1806.page/posts/pwc_05/</link>
+      <pubDate>Mon, 12 Oct 2026 18:41:32 +0200</pubDate>
+      <guid>https://unknownentity1806.page/posts/pwc_05/</guid>
+      <description>Sometimes you just gotta put a pin in it.. &amp;gt; updating you about my coding journey</description>
+    </item>
     <item>
       <title>The process of drawing an Iris fairy</title>
       <link>https://unknownentity1806.page/posts/process-iris/</link>
