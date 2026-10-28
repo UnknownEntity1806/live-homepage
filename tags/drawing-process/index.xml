@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Drawing-Process on Unknown Entity 1806</title>
+    <title>Drawing Process on Unknown Entity 1806</title>
     <link>https://unknownentity1806.page/tags/drawing-process/</link>
-    <description>Recent content in Drawing-Process on Unknown Entity 1806</description>
+    <description>Recent content in Drawing Process on Unknown Entity 1806</description>
     <generator>Hugo</generator>
     <language>en-uk</language>
-    <lastBuildDate>Mon, 12 Oct 2026 18:41:32 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 15:41:20 +0200</lastBuildDate>
     <atom:link href="https://unknownentity1806.page/tags/drawing-process/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Draw &amp; Chat 02: Halloween</title>
+      <link>https://unknownentity1806.page/posts/halloween/</link>
+      <pubDate>Wed, 28 Oct 2026 15:41:20 +0200</pubDate>
+      <guid>https://unknownentity1806.page/posts/halloween/</guid>
+      <description>In this second Draw &amp;amp; Chat I chat a little bit about my Halloween season this year whilst sharing the speedpaint of my Halloween illustration.</description>
+    </item>
     <item>
       <title>Playing with code #5: drawing a background</title>
       <link>https://unknownentity1806.page/posts/pwc_05/</link>
